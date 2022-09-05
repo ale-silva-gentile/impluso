@@ -27,4 +27,8 @@ Al encontrarnos en una situación tan crítica es donde los datos se vuelven fun
 
 
 ![image](https://user-images.githubusercontent.com/112590585/188343509-76b1d5f7-33b9-4e20-a74e-90af5e3e4a28.png)
+![image](https://user-images.githubusercontent.com/112590585/188343708-e69385f9-b66c-418b-9fe9-a744e42e79d1.png)
+![image](https://user-images.githubusercontent.com/112590585/188343769-3fcbe060-61a0-46cc-815d-8bd050c21f2a.png)
+
+
 
