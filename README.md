@@ -6,6 +6,10 @@ Este proyecto  tiene como proposito el desarrollo de herramientas y sistemas inf
 ## Impulso
 Se basa en la propulsión de proyectiles mediante resortes. Utilizamos cargas que son **impulsadas**.
 
+![image](https://user-images.githubusercontent.com/112590585/188343471-e0dffcd7-eb0f-4ea1-affc-828912e6c9ae.png)
+
+
+
 La propuesta que realizamos es el desarrollo de diversas herramientas, tenemos por ejemplo  un lanza cargas con material diseñado para extingir el fuego en el terreno y dos clases de drones cada uno con diferentes funciones y operabilidad según dispongan las condiciones climáticas y del terrento.
 
 
@@ -20,3 +24,7 @@ Al encontrarnos en una situación tan crítica es donde los datos se vuelven fun
 - Lanza cargas extintoras para ser utilizado por personas capacitadas.
 - Drones para la obetención de datos acerca del incendio y el entorno.
 - Drones dotados de cargas extintoras para ser lanzadas al terreno.
+
+
+![image](https://user-images.githubusercontent.com/112590585/188343509-76b1d5f7-33b9-4e20-a74e-90af5e3e4a28.png)
+
